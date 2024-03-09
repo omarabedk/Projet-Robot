@@ -1,0 +1,16 @@
+drv_uart.c:25:6:uart1_Init	1
+drv_uart.c:42:6:uart2_Init	1
+drv_uart.c:62:6:uart6_Init	1
+drv_uart.c:83:6:uart_Write	1
+drv_uart.c:95:5:put_char	1
+drv_uart.c:105:5:put_char1	1
+drv_uart.c:111:5:putchar_stlink	1
+drv_uart.c:117:5:putchar_zigbee	1
+drv_uart.c:127:6:HAL_UART_RxCpltCallback	4
+drv_uart.c:150:6:put_string	2
+drv_uart.c:159:6:put_string_stlink	2
+drv_uart.c:168:6:put_string_zigbee	2
+drv_uart.c:177:6:sendFrame	1
+drv_uart.c:185:6:term_printf	23
+drv_uart.c:287:6:term_printf_stlink	23
+drv_uart.c:385:6:term_printf_zigbee	23
